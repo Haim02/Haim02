@@ -6,6 +6,10 @@
 - 🔭 I’m currently working on **React and Node**
 - 🌱 I’m currently learning **TypeScript**
 - 👯 I’m looking to collaborate on **frontend Dev Proojects**
+  
+ ## About Me
+   I'm a full-stack developer with a focus on React and Redux. With a strong foundation in both front-end and back-end technologies, I enjoy building responsive, efficient 
+   applications and bringing ideas to life with clean, maintainable code. Always eager to learn and improve.
 
 
 
